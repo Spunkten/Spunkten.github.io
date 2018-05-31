@@ -1,6 +1,6 @@
 /*Script for navbar*/
 
-$(window).on('scroll', function()  {
+/*$(window).on('scroll', function()  {
 	if ($(window).scrollTop()) {
 		$('nav').addClass('black');
 	}
@@ -13,7 +13,7 @@ $(function() {
     e.preventDefault();
     $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
   });
-});	
+});	*/
 
 /*Script for fullscreen scroll*/
 
