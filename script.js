@@ -17,6 +17,6 @@ $(function() {
 
 /*Script for fullscreen scroll*/
 
-$(document).ready(function() { $('#fullpage').fullpage(); });
+/*$(document).ready(function() { $('#fullpage').fullpage(); });*/
 
 
